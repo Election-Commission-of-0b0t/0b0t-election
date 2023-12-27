@@ -51,7 +51,7 @@ body{
 
 .btn:after {
     content: "";
-    background: blue;
+    background: black;
     display: block;
     position: absolute;
     padding-top: 300%;
